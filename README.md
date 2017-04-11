@@ -1,2 +1,4 @@
 # Hello-World
-JUst another repository 
+Hi Humans 
+
+This is me Pawan Karki
